@@ -3,4 +3,4 @@
 The page was created by a fan.
 <hr>
 # Screenshot
-<img src="ss.jpg">
+<img src="ss.JPG">
