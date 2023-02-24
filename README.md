@@ -2,5 +2,5 @@
 
 The page was created by a fan.
 <hr>
-# Screenshot
+<h1>Screenshot</h1>
 <img src="ss.JPG">
